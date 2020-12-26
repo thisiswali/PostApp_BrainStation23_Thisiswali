@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-PostApp_BrainStation23_Thisiswali111",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
